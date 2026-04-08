@@ -1,4 +1,0 @@
-git rm path/to/file
-git commit -m "Menghapus retail-data-analysis-project
-/to/Sql"
-git push
